@@ -46,3 +46,17 @@ This convenience function combines several components:
 * **Interactive Frontend component in React**
     * How it calls the API
     * How it displays the results to your queries
+
+> The notebook for this section is found at: `/assets/notebooks/2`
+
+## 3. Advanced queries with Agents
+
+Limitations of RAG and how agents can help with it.
+
+In a real-life app we can have multiple types of data that focus on different kinds of answers.
+
+LLMs can create multiple data sources, tell what everyone is used for and the LLM can choose which one to query.
+
+![agents](./assets/pictures/3/agents.png)
+
+> The notebook for this section is found at: `/assets/notebooks/3`
