@@ -60,3 +60,13 @@ LLMs can create multiple data sources, tell what everyone is used for and the LL
 ![agents](./assets/pictures/3/agents.png)
 
 > The notebook for this section is found at: `/assets/notebooks/3`
+
+## 4. Production-ready techniques
+
+* **Persisting your data**: Persist your data in a vector store (like a vector database). We don't want to load the data in production every time.
+* **Chatting with your data**: Ask follow up questions.
+* **Streaming**: Give responses instantly. Send the answer piece by piece.
+
+Create a working web app using llamaIndex is as easy as: `npx create-llama`.
+
+> The notebook for this section is found at: `/assets/notebooks/4`
