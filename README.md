@@ -1,5 +1,7 @@
 # JavaScript RAG Web Apps with LlamaIndex
 
+Url: https://learn.deeplearning.ai/courses/javascript-rag-web-apps-with-llamaindex
+
 ## 1. Getting started with RAG
 
 ### RAG recap
