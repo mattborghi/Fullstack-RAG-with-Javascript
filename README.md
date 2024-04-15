@@ -37,3 +37,12 @@ This convenience function combines several components:
 - **Synthesizer**: combine the processed nodes, prompt template and query into a single prompt to the LLM.
 
 > The notebook for this section is found at: `/assets/notebooks/1`
+
+## 2. Build a full-stack web app
+
+* **Backend web api**
+    * How the API is called
+    * How to integrate LlamaIndex into your API
+* **Interactive Frontend component in React**
+    * How it calls the API
+    * How it displays the results to your queries
